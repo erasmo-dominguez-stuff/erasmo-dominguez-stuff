@@ -3,89 +3,60 @@
 > I'm actively working on organizing, labeling, and structuring the repositories here.
 > Once the structure is complete, this message will be removed.
 
-# 📁 erasmo-dominguez-stuff – A Living CV
+# 📁 erasmo-dominguez-stuff 
 
-This GitHub organization serves as my **living, verifiable portfolio**, where every repository acts as proof of work. It reflects my mindset:
+> This GitHub organization is where I collect and organize the things I actually do:
+projects, notes, ideas, posts, experiments, learnings — all in one place.
 
-> ✅ **Proof instead of promise**  
-> 🔍 **GitHub demonstration instead of resume lines**  
-> 🚢 **Ship instead of talk**
+> You’ll find things here ranging from DevOps and SRE to observability, ML, infrastructure as code, and software engineering.
+Some are clean. Some are messy. All are real.
 
-Here I publish practical, referenceable, and reusable content I’ve created or explored across DevOps, SRE, Observability, Machine Learning, Infrastructure as Code, and Software Engineering.
+---
+## 🏷️ Tagging System (Based on Purpose and Structure)
+
+To make this organization easy to navigate (for myself and others), each repository includes tags based on **why it exists**, **what it is**, **how it came to life**, and **what technologies it involves**.
 
 ---
 
-## 🧭 Repository Categories & Tags
+### 🔍 `why` – Why does this repo exist?
 
-Each repository is tagged using a **structured topic model** to describe its:
-
-- **Purpose** – Why this repository exists
-- **Technology** – What it focuses on
-- **Source or Reference** – Is it based on a book, course, etc.
-
-### 🏷️ Tag Types
-
-| Tag Type   | Examples                                            | Description |
-|------------|-----------------------------------------------------|-------------|
-| `purpose`  | `portfolio`, `workshop`, `notes`, `learning`, `proof`, `reference` | What role the repo plays in my professional growth |
-| `tech`     | `terraform`, `kubernetes`, `ml`, `python`, `go`, `observability`, `iac`, `cloud-native` | The main technologies used |
-| `source`   | `with-book`, `with-course`, `based-on-x`, `deepdive`, `forked-repo` | Indicates that it's derived from or inspired by a specific resource |
-
-> Repositories will typically include 2–4 of these tags.
+| Tag        | Description |
+|------------|-------------|
+| `learning` | Built to explore or understand a topic better — part of my personal learning process. |
+| `teaching` | Designed to help others learn — includes explanations, examples, or guided materials. |
+| `proof`    | A concrete deliverable that demonstrates mastery of a tool or concept. |
+| `reference`| A utility, example, or pattern meant to be reused — a source of truth or best practices. |
 
 ---
 
-## 📚 Terminology Dictionary
+### 📦 `what` – What kind of repo is it?
 
-| Term         | Description |
-|--------------|-------------|
-| `portfolio`  | Project that demonstrates real professional experience or skills relevant to my career. It's meant to be shared with recruiters or teams. |
-| `workshop`   | A repository structured to teach others how to use a tool or technique. Often includes examples, guided steps, and slides or recordings. |
-| `notes`      | Study notes or summaries of books, courses, or concepts I’ve explored. Includes both personal notes and public knowledge distillations. |
-| `learning`   | A project created as part of my own learning process. Often rougher, but shows hands-on effort to master a concept. |
-| `proof`      | A concrete deliverable to demonstrate mastery of a tool or pattern — “I can do this” instead of “I claim I can.” |
-| `reference`  | A utility or template that I (or others) can reuse in real projects. Serves as a source of truth or best practices. |
-| `with-book`  | The project was built alongside a book (e.g., *Terraform Up & Running*). |
-| `with-course`| Inspired by or built during an online course (e.g., Coursera, Udemy). |
+| Tag         | Description |
+|-------------|-------------|
+| `project`   | A complete, functional project — often with real-world applicability. |
+| `workshop`  | A guided repo used in training or presentations, including exercises or demos. |
+| `notes`     | Structured notes, takeaways, or summaries from books, courses, or research. |
+| `template`  | A boilerplate or base project to be reused as a starting point. |
+| `exploration` | A less polished sandbox — used for experimenting and testing ideas. |
 
 ---
 
-## 📂 Example: Tags in Action
+### 🧪 `how` – How did it come to life?
 
-> Repository: `terraform-aws-ecs-workshop`
-
-```yaml
-tags:
-  - terraform
-  - aws
-  - workshop
-  - proof
-```
-
-This indicates the repository is:
-- Focused on AWS and Terraform
-- Structured as a teaching resource
-- Created as a demonstrable proof of infrastructure delivery
+| Tag           | Description |
+|---------------|-------------|
+| `from-book`   | Created alongside a technical book. |
+| `from-course` | Built as part of an online course. |
+| `forked`      | A fork that I modified, studied, or extended. |
+| `inspired-by-x` | Sparked by a talk, article, or another open-source repo. |
 
 ---
 
-## 🗃️ Centralized Resources
+### ⚙️ `tech` – What technologies are involved?
 
-To keep track of learning sources, books, and references, I maintain:
-
-🔗 [`resources-by-topic`](https://github.com/erasmo-dominguez-stuff/resources-by-topic)  
-Contains curated books, articles, and course references grouped by topic (Terraform, Kubernetes, Observability, etc.)
-
----
-
-## 🙌 Why This Matters
-
-Instead of listing buzzwords or promises on a resume, this organization offers:
-
-- Verifiable public repositories  
-- Hands-on demos of skills  
-- Reusable tools others can benefit from  
-- A window into how I learn, teach, and deliver
+| Tag           | Description |
+|---------------|-------------|
+| `python`, `go`, `terraform`, `kubernetes`, `ml`, `observability`, `iac`, `cloud`, etc. | Main technologies used in the repo. Usually 1–2 per project. |
 
 ---
 
