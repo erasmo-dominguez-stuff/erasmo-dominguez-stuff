@@ -1,3 +1,8 @@
+🚧 **This GitHub organization is currently under construction**
+
+> I'm actively working on organizing, labeling, and structuring the repositories here.
+> Once the structure is complete, this message will be removed.
+
 # 📁 erasmo-dominguez-stuff – A Living CV
 
 This GitHub organization serves as my **living, verifiable portfolio**, where every repository acts as proof of work. It reflects my mindset:
