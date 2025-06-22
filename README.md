@@ -12,13 +12,13 @@ projects, notes, ideas, posts, experiments, learnings — all in one place.
 Some are clean. Some are messy. All are real.
 
 ---
-## 🏷️ Tagging System (Based on Purpose and Structure)
+# 🏷️ Tagging System (Based on Purpose and Structure)
 
 To make this organization easy to navigate (for myself and others), each repository includes tags based on **why it exists**, **what it is**, **how it came to life**, and **what technologies it involves**.
 
 ---
 
-### 🔍 `why` – Why does this repo exist?
+## 🔍 `why` – Why does this repo exist?
 
 | Tag        | Description |
 |------------|-------------|
@@ -29,7 +29,7 @@ To make this organization easy to navigate (for myself and others), each reposit
 
 ---
 
-### 📦 `what` – What kind of repo is it?
+## 📦 `what` – What kind of repo is it?
 
 | Tag         | Description |
 |-------------|-------------|
@@ -41,7 +41,7 @@ To make this organization easy to navigate (for myself and others), each reposit
 
 ---
 
-### 🧪 `how` – How did it come to life?
+## 🧪 `how` – How did it come to life?
 
 | Tag           | Description |
 |---------------|-------------|
@@ -52,7 +52,7 @@ To make this organization easy to navigate (for myself and others), each reposit
 
 ---
 
-### ⚙️ `tech` – What technologies are involved?
+## ⚙️ `tech` – What technologies are involved?
 
 | Tag           | Description |
 |---------------|-------------|
@@ -60,7 +60,20 @@ To make this organization easy to navigate (for myself and others), each reposit
 
 ---
 
-📫 **Let’s connect**  
+## 🎯 Recommended Topic Mapping
+
+You can map your tag categories directly to GitHub topics:
+
+| Tag Category | Example GitHub Topics                            |
+|--------------|--------------------------------------------------|
+| `why`        | `learning`, `teaching`, `proof`, `reference`     |
+| `what`       | `project`, `notes`, `workshop`, `template`, `exploration` |
+| `how`        | `from-course`, `from-book`, `inspired-by-x`, `forked` |
+| `tech`       | `terraform`, `github`, `kubernetes`, `ml`, etc.  |
+
+---
+
+# 📫 **Let’s connect**  
 - GitHub: [@erasmolpa](https://github.com/erasmolpa)  
 - LinkedIn: [linkedin.com/in/erasmodominguez](https://linkedin.com/in/erasmodominguez)  
 - Substack: [erasmo.substack.com](https://erasmo.substack.com)
